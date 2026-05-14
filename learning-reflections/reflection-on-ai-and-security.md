@@ -37,6 +37,32 @@ Many attacks do not appear obviously malicious. Instead, they imitate:
 
 This showed me that cybersecurity awareness is not only for technical specialists, but also important for general digital work environments.
 
+## Additional Thought After Further Reading
+
+After reading more about AI and cybersecurity, I noticed that AI is increasingly being used by both attackers and defenders.
+
+For example:
+
+- attackers may use AI to generate more convincing phishing messages,
+- while security teams may use AI for anomaly detection, monitoring, and faster threat analysis.
+
+This made me realize that AI can both improve productivity and expand the attack surface at the same time.
+
+Another point I found interesting is that even with advanced AI systems, human judgment and verification still remain important.
+
+Technology may support faster decision-making, but organizations still need:
+
+- clear workflows,
+- human oversight,
+- and responsible governance practices.
+
+I also noticed that many discussions around cybersecurity are not only about technical tools, but also about trust, communication, operational processes, and how people interact with technology in daily workflows.
+
+### Related Reading
+
+- Siemens article discussing how AI is increasingly used by both cyber attackers and defenders:
+  [AI vs. AI: How to Combat Today's Sophisticated Cyberattacks](https://www.linkedin.com/comm/pulse/ai-vs-how-combat-todays-sophisticated-cyberattacks-siemens-8w99f)
+
 ## Reflection
 
 So far, one of my biggest takeaways is that AI and cybersecurity are not isolated technical topics.
